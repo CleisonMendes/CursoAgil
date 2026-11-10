@@ -103,7 +103,7 @@ Chave primária composta: `(id_matricula, id_aula)`
 
 ```mermaid
 erDiagram
-  PROFESSOR ||--o{ CURSO : leciona
+  PROFESSOR ||--o{ CURSO : ensina
   CURSO ||--o{ AULA : possui
   ALUNOS ||--o{ ALUNO_TELEFONE : tem
   ALUNOS ||--o{ MATRICULA : faz
