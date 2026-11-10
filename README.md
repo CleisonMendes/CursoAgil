@@ -1,4 +1,4 @@
-# Modelo normalizado: CursoÁgil (3FN)
+# Modelo normalizado: CursoÁgil
 
 ## Legenda
 
